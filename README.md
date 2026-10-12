@@ -25,7 +25,7 @@
 
 ### 2. ContextMenuStrip trên DataGridView
 ![Thực thi chức năng](./screenshots/anh4.png)
-
+### ---
 ![Thực thi chức năng](./screenshots/anh6.png)
 
 ### 2. Parent-Child Communication
